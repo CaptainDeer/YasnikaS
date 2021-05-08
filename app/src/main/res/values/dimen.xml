@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //Text size
+    <dimen name="title_size">30sp</dimen>
+    <dimen name="super_title_size">45sp</dimen>
+    <dimen name="normal_size">18sp</dimen>
+
+    //Radius
+    <dimen name="et_background">40dp</dimen>
+
+    //Widths
+    <dimen name="detail_shoes_model">290dp</dimen>
+    <dimen name="detail_shoes_price">120dp</dimen>
+    <dimen name="detail_shoes_">100dp</dimen>
+
+
+    //Heights
+    <dimen name="header_nav_drawer">160dp</dimen>
+    <dimen name="detail_shoes_img">400dp</dimen>
+    <dimen name="detail_shoes_info">100dp</dimen>
+</resources>

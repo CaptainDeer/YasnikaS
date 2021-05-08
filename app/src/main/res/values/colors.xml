@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="turquoise">#00D3DC</color>
+    <color name="almostBlack">#181818</color>
+    <color name="black">#000000</color>
+    <color name="yellow">#FBE900</color>
+    <color name="eagleBlue">#124559</color>
+    <color name="almostWhite">#F1F1F1</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lightGrey">#A3A3A3</color>
+
+    <color name="blue_link">#2160FF</color>
+    <color name="green_confirm">#54E64A</color>
+    <color name="red_cancel">#E64A4A</color>
+</resources>

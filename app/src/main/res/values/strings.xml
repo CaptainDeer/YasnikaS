@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Yasnika Store</string>
+    <string name="email">E-mail</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="r_password">Repeat password</string>
+    <string name="no_account">You don´t have an account?</string>
+    <string name="forgot">Forgot your password?</string>
+    <string name="reset">Write your e-mail, to reset your password</string>
+    <string name="login">Log in</string>
+    <string name="create_account">Create an account</string>
+    <string name="new_account">New account</string>
+    <string name="terms_cond">I have read and agree to the privacy policy and terms of service</string>
+    <string name="submit">Submit</string>
+    <string name="home">Home</string>
+    <string name="brands">Brands</string>
+    <string name="cart">Cart</string>
+    <string name="others">Others</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="cancel">Cancel</string>
+    <string name="accept">Accept</string>
+    <string name="model">Model</string>
+    <string name="price">Price</string>
+    <string name="description">Description</string>
+    <string name="category">Category</string>
+    <string name="stock">Stock</string>
+    <string name="size">Size</string>
+    <string name="color">Color</string>
+    <string name="image">Image</string>
+    <string name="sku">SKU</string>
+    <string name="new_product">New Product</string>
+    <string name="next">Next</string>
+    <string name="item">Item #</string>
+    <string name="ok">OK</string>
+    <string name="choice_color">Choice the color </string>
+    <string name="choice_size">Choice the size </string>
+    <string name="add">Add to cart</string>
+
+    <!-- Spinner arrays -->
+    <string-array name="colors">
+        <item>White</item>
+        <item>Blue</item>
+        <item>Purple</item>
+        <item>Yellow</item>
+        <item>Orange</item>
+        <item>Pink</item>
+        <item>Black</item>
+        <item>Grey</item>
+        <item>Green</item>
+        <item>Red</item>
+        <item>Brown</item>
+    </string-array>
+
+    <string-array name="sizes">
+        <item>24</item>
+        <item>24.5</item>
+        <item>25</item>
+        <item>25.5</item>
+        <item>26</item>
+        <item>26.5</item>
+        <item>27</item>
+        <item>27.5</item>
+        <item>28</item>
+        <item>28.5</item>
+        <item>29</item>
+        <item>29.5</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

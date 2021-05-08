@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="@string/home"/>
+    <item
+        android:id="@+id/brands"
+        android:title="@string/brands"/>
+    <item
+        android:id="@+id/cart"
+        android:title="@string/cart"/>
+    <item
+        android:id="@+id/others"
+        android:title="@string/others"/>
+    <item
+        android:id="@+id/sign_out"
+        android:title="Sign Out"/>
+</menu>
